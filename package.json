@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "author": "Bhumika Gaurav Vaishnani",
-  "license": "ISC",
+  "license": "ISC1",
   "dependencies": {
     "express": "^4.18.1"
   }
